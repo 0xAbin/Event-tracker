@@ -1,6 +1,3 @@
-- Reya Network Integration 
-
-
 ## Installation 
 
 ```bash
